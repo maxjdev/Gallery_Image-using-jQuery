@@ -1,50 +1,51 @@
 <div align="center">
-
-  # EBAC Desenvolvedor FullStack Java - Front-End
-  <img src="https://i.postimg.cc/3xbR5F7H/rounded-in-photoretrica.png" width="150">
-
-  ## Projeto: Galeria de Fotos com jQuery
-  Visite a [Galeria de Fotos](https://ebac-proj-galeria-de-imagens.vercel.app/)
+  
+  
+  <h1>Project: Image Gallery using jQuery <a href="https://ebac-proj-galeria-de-imagens.vercel.app/">Deploy</></h1>
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  
 </div>
 
 <img src="https://i.postimg.cc/0jmr8XK0/screencapture-ebac-proj-galeria-de-imagens-vercel-app-2023-12-17-16-49-11.png">
 
-## Descrição do Projeto
+## Description
 
-Este projeto de Galeria de Fotos é parte do curso Desenvolvedor FullStack Java da EBAC, no módulo de Front-End. A aplicação utiliza jQuery para criar uma galeria dinâmica de imagens, permitindo a adição de novas imagens de forma interativa.
+This Photo Gallery project is part of the EBAC FullStack Java Developer course, in the Front-End module. The application uses jQuery to create a dynamic image gallery, allowing new images to be added interactively.
 
-## Funcionalidades Principais
+## functionalities
 
-- **Adição de Novas Imagens:**
-  - Clique no botão "Nova imagem +" no cabeçalho para exibir o formulário de inserção de nova imagem.
+- **Adding New Images:**
+  - Click the "New Image +" button in the header to display the insert new image form.
 
-- **Formulário de Inserção:**
-  - Preencha o campo com o URL da nova imagem e clique em "Adicionar" para incluir a imagem na galeria.
+- **Insert Form:**
+  - Fill in the field with the URL of the new image and click "Add" to include the image in the gallery.
 
-- **Visualização em Tamanho Real:**
-  - Ao clicar em uma imagem, é possível visualizá-la em tamanho real em uma nova aba.
+- **Full Size View:**
+  - By clicking on an image, you can view it in full size in a new tab.
 
-## Como Utilizar
+## How to use:
 
 1. **Acesse o site:**
-   - Visite [Galeria de Fotos](https://ebac-proj-galeria-de-imagens.vercel.app/)
+   - Visit [Image Gallery](https://ebac-proj-galeria-de-imagens.vercel.app/)
 
-2. **Adicione Novas Imagens:**
-   - Clique no botão "Nova imagem +" no cabeçalho.
+2. **Add New Images:**
+   - Click the "New Image +" button in the header.
 
-3. **Preencha o Formulário:**
-   - Insira o URL da nova imagem no formulário e clique em "Adicionar".
+3. **Fill the form:**
+   - Enter the URL of the new image into the form and click "Add".
 
-4. **Visualize as Imagens:**
-   - Observe as imagens adicionadas à galeria.
+4. **View Images:**
+   - Look at the images added to the gallery.
 
-5. **Visualização em Tamanho Real:**
-   - Clique em uma imagem para visualizá-la em tamanho real em uma nova aba.
+5. **Full Size View:**
+   - Click on an image to view it full size in a new tab.
 
-## Feedback e Contribuições
-
-Feedbacks são bem-vindos! Se tiver sugestões ou quiser contribuir para a melhoria deste projeto, sinta-se à vontade para abrir uma issue.
-
-<h2 align="center">
-  <i>Agradeço por explorar a Galeria de Fotos desenvolvida como parte do curso Desenvolvedor FullStack Java na EBAC!</i>
-</h2>
+<div align="center">
+  
+  ## Feedback and Contributions
+Feedbacks are welcome! If you have suggestions or want to contribute to improving this project, feel free to open an issue.
+</div>
